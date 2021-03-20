@@ -2,4 +2,4 @@
 
 Site vitrine
 
-https://dutss.github.io/site-the/
+https://dutss.github.io/site-de-the/
